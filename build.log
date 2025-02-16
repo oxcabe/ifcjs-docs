@@ -1,0 +1,22 @@
+Using remote mode. gh version 2.66.1 (2025-01-31)
+https://github.com/cli/cli/releases/tag/v2.66.1
+
+Fetching releases...
+Fetched releases:
+[
+  { name: 'components', release: 'v2.4.0' },
+  { name: 'fragment', release: 'v2.4.0' }
+]
+Cloning minified repositories...
+Cloned repositories:
+[
+  {
+    directory: '/home/runner/work/ifcjs-docs/ifcjs-docs/temp/components',
+    branch: 'v2.4.0'
+  },
+  {
+    directory: '/home/runner/work/ifcjs-docs/ifcjs-docs/temp/fragment',
+    branch: 'v2.4.0'
+  }
+]
+Finished copying and setting up repositories!
